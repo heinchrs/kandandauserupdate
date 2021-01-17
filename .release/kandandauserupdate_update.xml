@@ -5,9 +5,9 @@
 		<element>kandandauserupdate</element>
 		<type>plugin</type>
 		<version>1.5</version>
-		<changelogurl>https://raw.githubusercontent.com/heinchrs/kandandauserupdate/main/.release/changelog.xml</changelogurl>
+		<changelogurl>https://raw.githubusercontent.com/heinchrs/kandandauserupdate/master/.release/changelog.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://raw.githubusercontent.com/heinchrs/kandandauserupdate/main/.release/kandandauserupdate-v1.5.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://raw.githubusercontent.com/heinchrs/kandandauserupdate/master/.release/kandandauserupdate-v1.5.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version=".*" />
 		<client>0</client>
@@ -18,9 +18,9 @@
 		<element>kandandauserupdate</element>
 		<type>plugin</type>
 		<version>1.6</version>
-		<changelogurl>https://raw.githubusercontent.com/heinchrs/kandandauserupdate/main/.release/changelog.xml</changelogurl>
+		<changelogurl>https://raw.githubusercontent.com/heinchrs/kandandauserupdate/master/.release/changelog.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://raw.githubusercontent.com/heinchrs/kandandauserupdate/main/.release/kandandauserupdate-v1.6.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://raw.githubusercontent.com/heinchrs/kandandauserupdate/master/.release/kandandauserupdate-v1.6.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version=".*" />
 		<client>0</client>
@@ -31,9 +31,9 @@
 		<element>kandandauserupdate</element>
 		<type>plugin</type>
 		<version>1.7</version>
-		<changelogurl>https://raw.githubusercontent.com/heinchrs/kandandauserupdate/main/.release/changelog.xml</changelogurl>
+		<changelogurl>https://raw.githubusercontent.com/heinchrs/kandandauserupdate/master/.release/changelog.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://raw.githubusercontent.com/heinchrs/kandandauserupdate/main/.release/kandandauserupdate-v1.7.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://raw.githubusercontent.com/heinchrs/kandandauserupdate/master/.release/kandandauserupdate-v1.7.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version=".*" />
 		<client>0</client>

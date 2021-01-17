@@ -34,10 +34,10 @@
 			</fieldset>
 		</fields>
 	</config>
-	<changelogurl>https://raw.githubusercontent.com/heinchrs/kandandauserupdate/main/.release/changelog.xml</changelogurl>
+	<changelogurl>https://raw.githubusercontent.com/heinchrs/kandandauserupdate/master/.release/changelog.xml</changelogurl>
 	<updateservers>
 		<server name="Kandanda Userupdate update server" type="extension" priority="1">
-			https://raw.githubusercontent.com/heinchrs/kandandauserupdate/main/.release/kandandauserupdate_update.xml
+			https://raw.githubusercontent.com/heinchrs/kandandauserupdate/master/.release/kandandauserupdate_update.xml
 		</server>
 	</updateservers>
 </extension>
