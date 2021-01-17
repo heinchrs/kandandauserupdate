@@ -1,0 +1,66 @@
+<changelogs>
+	<changelog>
+		<element>kandandauserupdate</element>
+		<type>plugin</type>
+		<version>1.7</version>
+		<change>
+			<item>Readiness for most recent JMail/PHPMailer version in Joomla 3.5.1</item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>kandandauserupdate</element>
+		<type>plugin</type>
+		<version>1.6</version>
+		<fix>
+			<item>Duplicatable groups were not correctly checked for changes. So this elements were always marked as changed in notification mails.</item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>kandandauserupdate</element>
+		<type>plugin</type>
+		<version>1.5</version>
+		<addition>
+			<item>Added new plugin parameter in order to disable notification mails when editing member data.</item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>kandandauserupdate</element>
+		<type>plugin</type>
+		<version>1.4</version>
+		<fix>
+			<item>Userid for updating joomla user email address is now taken from variable content submitted in method onContentAfterSave</item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>kandandauserupdate</element>
+		<type>plugin</type>
+		<version>1.3</version>
+		<fix>
+			<item>Update of joomla user email address is only done if corresponding userid has a valid format</item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>kandandauserupdate</element>
+		<type>plugin</type>
+		<version>1.2</version>
+		<fix>
+			<item>Fixed wrong SQL statement when user is changing his own member data while he is not allowed to change section and section fee assignment</item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>kandandauserupdate</element>
+		<type>plugin</type>
+		<version>1.1</version>
+		<addition>
+			<item>Sending of email notifications about new or changed mebmer data</item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>kandandauserupdate</element>
+		<type>plugin</type>
+		<version>1.0</version>
+		<note>
+			<item>Startup</item>
+		</note>
+	</changelog>
+</changelogs>
